@@ -4,4 +4,4 @@
 
 Terraform project Ideas with AWS. 
 
-- [Github](https://github.com/OklenCodes/Terraform-AWS-Projects)
+- [Terraform AWS Projects](https://github.com/OklenCodes/Terraform-AWS-Projects)
